@@ -1,0 +1,15 @@
+{
+  "name": "quarion.com",
+  "version": "0.0.0",
+  "description": "quarion.com",
+  "main": "server.js",
+  "author": {
+    "name": "Roman",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.0",
+    "handlebars": "^3.0.1"
+  }
+}
